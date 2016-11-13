@@ -1,5 +1,5 @@
 # Azure Machine Learning
-Training resources around Azure Machine Learning
+Training resources around Microsoft R for Data Science
 
 ## How to Use this Site
 
@@ -9,13 +9,12 @@ We recommend cloning this repository onto your local computer with a git-based p
 
 ## Microsoft's Azure Machine Learning Components Covered
 
-*Data Access*
-
-*Data Preprocessing and Analysis*
-
-*Application of an ML Algorithm*
-
-*Classification/Scoring and Evaluation*
+*R Fundamentals*
+*Data Manipulation with dplyr*
+*Data Manipulation with dplyrXdf*
+*Modeling and Scoring with Microsoft R*
+*Parallel Computing with the RevoScaleR package*
+*Deploying Models with the AzureML package*
 
 **For Instructor-Led:**
 * We recommend dowloading the site contents or cloning it if you can do so to your local computer.
