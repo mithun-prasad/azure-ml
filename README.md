@@ -10,10 +10,15 @@ We recommend cloning this repository onto your local computer with a git-based p
 ## Microsoft's Azure Machine Learning Components Covered
 
 *R Fundamentals*
+
 *Data Manipulation with dplyr*
+
 *Data Manipulation with dplyrXdf*
+
 *Modeling and Scoring with Microsoft R*
+
 *Parallel Computing with the RevoScaleR package*
+
 *Deploying Models with the AzureML package*
 
 **For Instructor-Led:**
