@@ -9,10 +9,10 @@ UC Irvine Machine Learning Repository: http://archive.ics.uci.edu/ml/
 
 ## Scientific Python
 
-▪  numpy - mainly useful for its N-dimensional array objects 
-▪  pandas - Python data analysis library, including structures such as dataframes 
-▪  matplotlib - 2D plotting library producing publication quality figures 
-▪  scikit-learn - the machine learning algorithms used for data analysis and data mining tasks
+* numpy - mainly useful for its N-dimensional array objects 
+* pandas - Python data analysis library, including structures such as dataframes 
+* matplotlib - 2D plotting library producing publication quality figures 
+* scikit-learn - the machine learning algorithms used for data analysis and data mining tasks
 
 ## How do I plan a Machine Learning Project?
 
