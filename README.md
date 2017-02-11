@@ -9,11 +9,14 @@ We recommend cloning this repository onto your local computer with a git-based p
 
 ## Microsoft's Azure Machine Learning Components Covered
 
-*ML 101*
-
-*Building ML Experiments*
-
-*Deploying ML as a service*
+*  ML 101
+*  Data Science Process
+*  Supvervised vs Unsupervised vs Semisupervised Learning
+*  Dimensionality Reduction
+*  Building ML Experiments using Studio
+*  Evaluation of ML Models
+*  Customizing ML Experiments inside Studio
+*  Deploying ML as a service
 
 
 **For Instructor-Led:**
