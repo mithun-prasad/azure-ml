@@ -1,7 +1,7 @@
 # Azure Machine Learning
 Training resources around Azure ML
 
-https://www.surveymonkey.com/r/TKQ2RDS
+https://www.surveymonkey.com/r/XQXDBY9
 
 ## How to Use this Site
 
