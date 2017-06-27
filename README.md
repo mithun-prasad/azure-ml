@@ -12,19 +12,16 @@ We recommend cloning this repository onto your local computer with a git-based p
 ## Modules Covered
 
 The goal of this course is to cover the following modules:
+*  ML 101
+*  Data Science Process
+*  Supvervised vs Unsupervised vs Semisupervised Learning
+*  Dimensionality Reduction
+*  Building ML Experiments using Studio
+*  Evaluation of ML Models
+*  Customizing ML Experiments inside Studio
+*  Deploying ML as a service
 
-1. Principles of Bot Design
-2. Types of Bots
-3. Introduction to Microsoft Bot Framework
-4. Microsoft Bot Framework - Working With Channels
-4. Cognitive Services Overview
-5. Cognitive Services Integration with Bots
-6. Testing Bots
-   6.1  Unit Tests
-   6.2  Using Ngrok for Testing
-   6.3  Direct Line API
-7. Monitor Bot Health - Telemetry
-8. Introduction to LUIS
+
 
 
 **For Instructor-Led:**
